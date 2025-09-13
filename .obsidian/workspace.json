@@ -218,6 +218,8 @@
   },
   "active": "b731ac04541fb7ee",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
     "01_Core/01_Basics/02_Data_Types/00_Index.md",
     "02_Advanced/02_Async/01_Futures.md",
     "Rust-Learning/03-Data-Types/README.md",
@@ -245,14 +247,12 @@
     "Concepts Map.md",
     "Learning Progress.md",
     "Code Snippets.md",
-    "Interview Questions.md",
     "06_Daily",
     "05_Resources",
     "02_Advanced/02_Async",
     "02_Advanced",
     "04_Flashcards",
     "03_Projects/01_Beginner",
-    "03_Projects",
-    "01_Core/03_Borrowing"
+    "03_Projects"
   ]
 }
